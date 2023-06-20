@@ -8,7 +8,7 @@ This Repository provides a (German) keyboard layout for MacOS, that will map mos
 I might expand the repo to include keyboard layouts for other languages as well.
 
 > **Note** \
-> __I am not the Author of this keyboard layout file.__ The purpose of this repository is to spread the file, because (at least for me) it was very hard to find. I am also including information on how to Setup and modify it.
+> __I am not the Author of this keyboard layout file.__ I found it [here](https://www.hackintosh-forum.de/forum/thread/54069-mx-keys-für-mac-unter-windows-mappen/). The purpose of this repository is to spread the file, because (at least for me) it was very hard to find. I am also including information on how to Setup and modify it.
 
 # Setup
 I am assuming that you speak German if you want to install a German keyboard layout. Therefore I have used the German setting names with rough translations in 
